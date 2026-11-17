@@ -19,7 +19,7 @@ export default function Authintro() {
             <p className="text-[74px] leading-none font-black tracking-[0.12em] text-white drop-shadow-[0_12px_24px_rgba(0,0,0,0.35)] sm:text-[84px]">
               ROUTE
             </p>
-            <p className="mt-2 text-xs font-medium tracking-[0.12em] text-[#dbe8ff]">Bahaa Eddin Aljasem</p>
+            <p className="mt-2 text-xs font-medium tracking-[0.12em] text-[#dbe8ff]">ِAmir Mahmoud Mohamed</p>
           </div>
         </div>
         <div className="border-t border-white/20 bg-[#0a2b86] px-5 py-4">
